@@ -11,7 +11,7 @@
 	<groupId>info.xyzxyz</groupId>
 	<artifactId>gcphello</artifactId>
 	<version>1.0.0-RELEASE</version>
-	<name>gcphello</name>
+	<name>gcphello-springboot</name>
 	<description>GCP Hello World</description>
 	<properties>
 		<java.version>17</java.version>
