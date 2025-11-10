@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>info.xyzxyz</groupId>
-	<artifactId>gcphello</artifactId>
+	<artifactId>gcphello-springboot</artifactId>
 	<version>1.0.0-RELEASE</version>
 	<name>gcphello-springboot</name>
 	<description>GCP Hello World</description>
