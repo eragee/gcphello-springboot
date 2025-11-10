@@ -1,0 +1,24 @@
+# Ignore version control
+.git
+.gitignore
+
+# Maven target directory
+target
+
+# IDE configs
+.idea
+*.iml
+.vscode
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker itself
+Dockerfile
+docker-compose.yml
+
+# Build and logs
+*.log
+*.tmp
