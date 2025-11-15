@@ -1,4 +1,4 @@
-package info.xyzxyz;
+package dev.eragee;
 
 public class RestResponse {
 	private String status;

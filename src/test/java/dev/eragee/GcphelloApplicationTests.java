@@ -1,4 +1,4 @@
-package info.xyzxyz;
+package dev.eragee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

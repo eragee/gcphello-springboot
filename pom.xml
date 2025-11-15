@@ -8,7 +8,7 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>info.xyzxyz</groupId>
+	<groupId>dev.eragee</groupId>
 	<artifactId>gcphello-springboot</artifactId>
 	<version>1.0.0-RELEASE</version>
 	<name>gcphello-springboot</name>
